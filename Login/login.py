@@ -2,6 +2,7 @@ from flask import Flask
 from flask_restful import Resource, Api
 from flask_httpauth import HTTPBasicAuth
 
+
 app = Flask(__name__)
 api = Api(app, prefix="/login")
 auth = HTTPBasicAuth()
@@ -22,11 +23,6 @@ class PrivateResource(Resource):
 		return "Login Exitoso"
 
 api.add_resource(PrivateResource, '/private')
-
-#@app.route('/')
-#@auth.login_required
-#def login():
-#	return "Login Exitoso" % auth.username()
 
 if __name__ == '__main__':
 	app.run(debug=True)
