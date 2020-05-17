@@ -16,12 +16,12 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -69,8 +69,7 @@
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-La API Kathnny tiene como bla bla bla
-* un motivo por aca
+La API Kathnny tiene como objetivo tener funcionalidad para realizar traducciones y conjugaciones de palabras a través de la consulta y coneccion hacia otras APIs, esto incluyendo una API que almacena información proveniente de una base de datos, esto con la finalidad de procesar dicha información hacias otras APIs y generar data de retorno a través de la nuestra, se proyecta crear un cliente de interfaz para poder realizar consultas de una manera más amigable para el usuario común.
 
 ### Built With
 * [Flask python library](https://pypi.org/project/Flask/)
