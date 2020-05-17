@@ -52,7 +52,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [Kathnny](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -67,7 +67,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Kathnny
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
