@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kenny181920/TecnologiasConstruccion/tree/master/Proyecto%20Kathnny">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Imagenes/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Kathnny</h3>
