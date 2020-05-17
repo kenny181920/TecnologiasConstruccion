@@ -92,7 +92,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 * [Python](https://www.python.org/)
-* Pip
+* [Pip](https://pypi.org/project/pip/)
 ```sh
 python get-pip.py
 ```
