@@ -34,7 +34,7 @@
   <h3 align="center">Kathnny</h3>
 
   <p align="center">
-    API de ingles para el curso de Tecnologias de Construccion
+    English API for the Construction Technologies course
     <br />
     <a href="https://github.com/kenny181920/TecnologiasConstruccion/tree/master/Proyecto%20Kathnny"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,7 +69,7 @@
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-La API Kathnny tiene como objetivo tener funcionalidad para realizar traducciones y conjugaciones de palabras a través de la consulta y coneccion hacia otras APIs, esto incluyendo una API que almacena información proveniente de una base de datos, esto con la finalidad de procesar dicha información hacias otras APIs y generar data de retorno a través de la nuestra, se proyecta crear un cliente de interfaz para poder realizar consultas de una manera más amigable para el usuario común.
+The Kathnny API aims to have functionality to perform translations and conjugations of words through the query and connection to other APIs, this including an API that stores information from a database, this in order to process such information to other APIs and generate return data through ours, we plan to create an interface client to make queries in a more user-friendly way.
 
 ### Built With
 * [Flask python library](https://pypi.org/project/Flask/)
@@ -95,16 +95,16 @@ python get-pip.py
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo 
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-2. Get a free API Key at https://example.com
+2. Get a free API Key at https://kathnny.com
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Metdos get por definir.
+Get methods to be defined.
 
 
 
