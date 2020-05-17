@@ -85,9 +85,6 @@ pip install json
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * [Python](https://www.python.org/)
@@ -107,18 +104,18 @@ git clone https://github.com/your_username_/Project-Name.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-En esta parte iran los metodos get post
+Metdos get por definir.
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
+-->
 
-
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -128,7 +125,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+-->
 
 
 <!-- CONTACT -->
@@ -137,7 +134,7 @@ Contributions are what make the open source community such an amazing place to b
 katherine Ccama Huallpa - kccamah@ulasalle.edu.pe
 Kenny Mollapaza Morocco - kmollapazam@ulasalle.edu.pe
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+<!--Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)-->
 
 
 
